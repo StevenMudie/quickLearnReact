@@ -11,7 +11,7 @@ const MainNav = () => {
             <Link to="/">All Meetups</Link>
           </li>
           <li>
-            <Link to="newmeetups">New Meetups</Link>
+            <Link to="newmeetups">Add New Meetup</Link>
           </li>
           <li>
             <Link to="favourites">Favourites</Link>
